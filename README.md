@@ -1,8 +1,10 @@
-# PHRASES API
+# PHRASES API 📔🖊💡💭
 
 ¡Hola! Soy una API de **más de 1000 frases en español**. Desde reconocidos autores hasta profundos pensamientos, pasando por muchos temas y diversas opiniones, estoy para ¡VOLARTE LA CABEZA!
 
-[**https://phrasesapi.onrender.com/**](https://phrasesapi.onrender.com/)
+🌐 [**https://phrasesapi.onrender.com/**](https://phrasesapi.onrender.com/) 🌐
+
+## Ejemplo:
 
 ```http
   {
@@ -24,31 +26,31 @@
 
 ## Tipos / categorías / temáticas
 
-- Amor y amistad
-- Bien y mal
-- Consejos y prudencia
-- Educación y ética
-- Éxito y fracaso
-- Felicidad e infelicidad
-- Filosofía
-- Inteligencias
-- Leyes, política y justicia
-- Naturaleza y belleza
-- Personas, hombres y mujeres
-- Razonamiento lógico
-- Religión
-- Refranes
-- Riqueza y pobreza
-- Sabiduría humana
-- Salud y medicina
-- Sufrimiento y esperanza
-- Tiempo
-- Trabajo
-- Verdad y mentira
-- Vida
-- Virtud y vicios
+- Amor y amistad 💛
+- Bien y mal ☯️ 
+- Consejos y prudencia 👴
+- Educación y ética 🎓
+- Éxito y fracaso 🍀
+- Felicidad e infelicidad 🎭
+- Filosofía 💭
+- Inteligencias 🎨
+- Leyes, política y justicia ⚖️
+- Naturaleza y belleza 🌈
+- Personas, hombres y mujeres 👤
+- Razonamiento lógico 👓
+- Religión 🧎
+- Refranes 🙈
+- Riqueza y pobreza 💸
+- Sabiduría humana 🤔
+- Salud y medicina 🚑
+- Sufrimiento y esperanza 😓
+- Tiempo ⏳
+- Trabajo 🛠
+- Verdad y mentira 🌗
+- Vida 💦
+- Virtud y vicios 🫢
 
-## ¡Usá mis datos!
+## ¡Usá la API! 🤩
 
 `GET`
 **Todas las frases**
@@ -220,12 +222,12 @@ https://phrasesapi.onrender.com/getVirtueAndVices
 
 ## Autora:
 
-- [**_María Cecilia Luna_**](https://mcecilialuna-dev.netlify.app)
+- [**_🟣 María Cecilia Luna 🟣_**](https://mcecilialuna-dev.netlify.app)
 
-## Licencia
+## Licencia:
 
-Uso y dominio **PÚBLICO**
+Uso y dominio **PÚBLICO** ✅🌎
 
-## Feedback
+## Feedback:
 
-Si tienes algo que aportar o corregir, agradecería tu mensaje a **lunama.cecilia@live.com**
+Si tienes algo que aportar o corregir, agradecería tu mensaje a **lunama.cecilia@live.com** 👀👂
