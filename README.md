@@ -200,7 +200,7 @@ https://phrasesapi.onrender.com/getWork
 ```
 
 `GET` 🔵
-_V***erdad y mentira***
+***Verdad y mentira***
 
 ```http
   GET https://phrasesapi.onrender.com/getTruthAndLies
