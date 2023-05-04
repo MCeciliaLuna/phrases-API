@@ -52,169 +52,169 @@
 
 ## ¡Usá la API! 🤩
 
-`GET`
-**Todas las frases**
+`GET` 🔴
+***TODAS LAS FRASES***
 
 ```http
 https://phrasesapi.onrender.com/getAllPhrases
 ```
 
-`GET`
-_Amor y amistad_
+`GET` 🟡
+***Amor y amistad***
 
 ```http
 https://phrasesapi.onrender.com/getLoveAndFriendship
 ```
 
-`GET`
-_Bien y mal_
+`GET` 🟢
+***Bien y mal***
 
 ```http
 https://phrasesapi.onrender.com/getGoodAndEvil
 ```
 
-`GET`
-_Consejos y prudencia_
+`GET` 🔵
+***Consejos y prudencia***
 
 ```http
 https://phrasesapi.onrender.com/getAdvicesAndPrudence
 ```
 
-`GET`
-_Educación y ética_
+`GET` 🟣
+***Educación y ética***
 
 ```http
 https://phrasesapi.onrender.com/getEducationAndEthic
 ```
 
-`GET`
-_Éxito y fracaso_
+`GET` 🟤
+***Éxito y fracaso***
 
 ```http
 https://phrasesapi.onrender.com/getSuccessAndFailure
 ```
 
-`GET`
-_Felicidad e infelicidad_
+`GET` ⚫
+***Felicidad e infelicidad***
 
 ```http
 https://phrasesapi.onrender.com/getHappinessAndUnhappiness
 ```
 
-`GET`
-_Filosofía_
+`GET` ⚪
+***Filosofía***
 
 ```http
 https://phrasesapi.onrender.com/getPhilosophy
 ```
 
-`GET`
-_Inteligencias_
+`GET` 🟠
+***Inteligencias***
 
 ```http
 https://phrasesapi.onrender.com/getIntelligences
 ```
 
-`GET`
-_Leyes, política y justicia_
+`GET` 🔴
+***Leyes, política y justicia***
 
 ```http
 https://phrasesapi.onrender.com/getLawsPoliticsAndJustice
 ```
 
-`GET`
-_Naturaleza y belleza_
+`GET` 🟡
+***Naturaleza y belleza***
 
 ```http
 https://phrasesapi.onrender.com/getNatureAndBeauty
 ```
 
-`GET`
-_Personas, hombres y mujeres_
+`GET` 🟢
+***Personas, hombres y mujeres***
 
 ```http
 https://phrasesapi.onrender.com/getPeopleWomanAndMan
 ```
 
-`GET`
-_Razonamiento lógico_
+`GET` 🔵
+***Razonamiento lógico***
 
 ```http
 https://phrasesapi.onrender.com/getLogicReasoning
 ```
 
-`GET`
-_Religión_
+`GET` 🟣
+***Religión***
 
 ```http
 https://phrasesapi.onrender.com/getReligion
 ```
 
-`GET`
-_Refranes_
+`GET` 🟤
+***Refranes***
 
 ```http
 https://phrasesapi.onrender.com/getSayings
 ```
 
-`GET`
-_Riqueza y pobreza_
+`GET` ⚫
+***Riqueza y pobreza***
 
 ```http
 https://phrasesapi.onrender.com/getWealthAndPoverty
 ```
 
-`GET`
-_Sabiduría humana_
+`GET` ⚪
+***Sabiduría humana***
 
 ```http
 https://phrasesapi.onrender.com/getHumanWisdom
 ```
 
-`GET`
-_Salud y medicina_
+`GET` 🟠
+***Salud y medicina***
 
 ```http
 https://phrasesapi.onrender.com/getHealthAndMedicine
 ```
 
-`GET`
-_Sufrimiento y esperanza_
+`GET` 🔴
+***Sufrimiento y esperanza***
 
 ```http
 https://phrasesapi.onrender.com/getSufferingAndHope
 ```
 
-`GET`
-_Tiempo_
+`GET` 🟡
+***Tiempo***
 
 ```http
 https://phrasesapi.onrender.com/getTime
 ```
 
-`GET`
-_Trabajo_
+`GET` 🟢
+***Trabajo***
 
 ```http
 https://phrasesapi.onrender.com/getWork
 ```
 
-`GET`
-_Verdad y mentira_
+`GET` 🔵
+_V***erdad y mentira***
 
 ```http
   GET https://phrasesapi.onrender.com/getTruthAndLies
 ```
 
-`GET`
-_Vida_
+`GET` 🟣
+***Vida***
 
 ```http
 https://phrasesapi.onrender.com/getLife
 ```
 
-`GET`
-_Virtud y vicios_
+`GET` 🟤
+***Virtud y vicios***
 
 ```http
 https://phrasesapi.onrender.com/getVirtueAndVices
@@ -222,7 +222,7 @@ https://phrasesapi.onrender.com/getVirtueAndVices
 
 ## Autora:
 
-- [**_🟣 María Cecilia Luna 🟣_**](https://mcecilialuna-dev.netlify.app)
+[**_🟣 María Cecilia Luna 🟣_**](https://mcecilialuna-dev.netlify.app)
 
 ## Licencia:
 
