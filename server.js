@@ -15,14 +15,11 @@ app.use(bodyParser.json());
 app.use(cors());
 
 app.get("/", (req, res) => {
-  res.json([
+  res.json(
     {
       "Welcome message":
-        "Hello! I'm Cecilia, author and creator of PhrasesAPI and I welcome you!",
-    },
-    { "Get it all": "https://phrasesapi.onrender.com/getAllPhrases" },
-    { "Filter by type": "https://github.com/MCeciliaLuna/phrases-API" },
-  ]);
+        "Hello! I'm Cecilia, author and creator of PhrasesAPI and I welcome you! Look at everything we have in https://github.com/MCeciliaLuna/phrases-API ",
+    });
 });
 
 app.use("/", routes);
