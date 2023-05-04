@@ -16,7 +16,10 @@ app.use(bodyParser.json());
 app.use(cors())
 
 app.get('/', (req, res) => {
-  res.send('Welcome to Api PHRASES! Get it all at: https://phrasesapi.onrender.com/getAllPhrases or filter by categories at https://github.com/MCeciliaLuna/phrases-API')
+  res.send({
+    "Welcome message":"Hello! I'm Cecilia, author and creator of PhrasesAPI and I welcome you!",
+    "Get it all":"https://phrasesapi.onrender.com/getAllPhrases",
+    "Filter by type":"https://github.com/MCeciliaLuna/phrases-API"})
 })
 
 app.use("/", routes)
