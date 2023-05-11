@@ -1,6 +1,6 @@
 # PHRASES API 📔🖊💡💭
 
-¡Hola! Soy una API de **más de 1000 frases en español**. Desde reconocidos autores hasta profundos pensamientos, pasando por muchos temas y diversas opiniones, estoy para ¡VOLARTE LA CABEZA!
+¡Hola! Soy una API de **más de 700 frases en español**. Desde reconocidos autores hasta profundos pensamientos, pasando por muchos temas y diversas opiniones, estoy para ¡VOLARTE LA CABEZA!
 
 🌐 [**https://phrasesapi.onrender.com/**](https://phrasesapi.onrender.com/) 🌐
 
